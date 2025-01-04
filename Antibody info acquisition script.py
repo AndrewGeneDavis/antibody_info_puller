@@ -3,7 +3,7 @@
 Spyder Editor
 Author = @Andrew Davis
 Created 1/2/2025
-Last updated 1/2/2025
+Last updated 1/3/2025
 
 Script to scrape common antibody manufacturer's websites for important antibody
 information to add to laboratory inventories
