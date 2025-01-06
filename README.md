@@ -1,5 +1,5 @@
 # antibody_info_puller
-A quick web scraper that will take useful information from the proteintech website and output in csv format for entry into a local database.  Built initially to help with data entry of a large number of antibodies that are being used for an antibody screen.  We purchased the antibodies from proteintech, but I would like to expand to most major antibody retailers (abcam, sigma/millipore, santa cruz, etc.).
+A quick web scraper that will take useful information from antibody manufacturer websites and output in csv format for entry into a local database.  Built initially to help with data entry of a large number of antibodies that are being used for an antibody screen.  We purchased the antibodies from proteintech, but I would like to expand to most major antibody retailers (abcam, sigma/millipore, santa cruz, etc.).
 
 # 1/3/2025
 Added python version still in development.  Dependencies are "requests", "BeautifulSoup", and "re".
